@@ -1,5 +1,6 @@
 French Press
 ===
+![](https://cdn.rawgit.com/andmos/Coffee/master/img/FrenchPress.svg) 
 ###Intro
 Always pre-heat the french press. Make sure to use a clean water and equipment.
 ### Big press
