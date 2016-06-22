@@ -3,7 +3,7 @@ Aeropress
 ![](https://cdn.rawgit.com/andmos/Coffee/master/img/AeroPress.svg)
 ### Intro
 Always use clean water. Remember to moisten the filter. This method works nice with dark roasted coffee.
-### Single cup - Dark roasted coffee
+### Single cup - Strong dark roasted coffee
 
 * Ca. 2.2 dl water
 * 26 gr/ 2 scoops (the Aeropress scoope) freshly ground coffee, a bit finer than French Press
