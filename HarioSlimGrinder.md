@@ -8,7 +8,7 @@ Alas, the grinder has no marked settings for how course the grind is. Here are s
 
 ### Instructions
 
-To adjust the grinder, turn the wheel on the bottom of the upper part. The wheel will make a clicking sound when adjusting. Right is finer, left is more course. The base is closed (finest) setting.
+To adjust the grinder, turn the wheel on the bottom of the upper part. The wheel will make a clicking sound when adjusting. Right is finer, left is more course. The base is closed (finest) setting. All values are therefore counted from finest to course. 
 
 | Method | Clicks |
 | ---   | ---     |
