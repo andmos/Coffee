@@ -36,3 +36,26 @@ Always use clean water. Remember to moisten the filter.
 * Pour water over the coffee and set a timer for 3 minutes.
 * When the timer is done, flip the Aeropress over on top of a cup.
 * Press down slowly for about 25 seconds.
+
+## Single glass - Dark roasted iced coffee - Inverted method 
+
+### Intro 
+Always use clean water. Remember to moisten the filter. This method chills the coffee instantly.
+
+* Ca. 150 gr water 
+* 30 gr freshly ground coffee, a bit finer than filter / drip ground
+* 8 - 10 small/medium ice cubes
+
+### Introductions
+
+* Moister the filter and put it in the holder.
+* Fill a cup with 4 - 5 ice cubes.
+* Fill a tall glass with 4 -5 ice cubes.
+* Set up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).
+* Attach the other part of the Aeropress on top of the rubber plunger.
+* Add the coffee to the reversed press.
+* Pour water over the coffee and set a timer for 1 minute.
+* When the timer is done, flip the Aeropress over on top of a cup.
+* Press down slowly for about 25 seconds.
+* Pour the coffee and the now semi-melted ice over the tall glass. 
+
