@@ -21,4 +21,4 @@ Always pre-heat the french press. Make sure to use clean water and equipment.
 ### Instructions
 * Fill half pressure pot with freshly boiled water. Rotate lightly the jug so that all the coffee is wetted . Fill with specified flow .
 * Put on the filter lid so that the spout is closed.
-* Wait four minutes before pushing the plunger down slowly. Turn the filter cap around so the spout open.
+* Wait four minutes before pushing the plunger down slowly. Turn the filter cap around so the spout is open.
