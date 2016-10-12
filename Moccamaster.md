@@ -24,7 +24,7 @@ The Moccamaster scoop takes about 10 gr / pr. scoop.
 
 ### A quarter liter
 * 2 cups / 2.5 dl water
-* 10 / 1 scoop
+* 10 gr / 1 scoop
 
 ### Instructions
 
