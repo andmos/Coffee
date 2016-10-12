@@ -1,3 +1,4 @@
+
 Moccamaster
 ===
 ![](https://cdn.rawgit.com/andmos/Coffee/master/img/Moccamaster.svg)
@@ -8,6 +9,8 @@ Always use fresh water. Don't use the pot when pouring water in the tank on the 
 Make sure the pot is clean.
 
 Use a coffee grinder set to medium / fine grind.
+
+The Moccamaster scoop takes about 10 gr / pr. scoop.
 
 
 ### One liter
