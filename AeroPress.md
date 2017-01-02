@@ -37,6 +37,10 @@ Always use clean water. Remember to moisten the filter.
 * When the timer is done, flip the Aeropress over on top of a cup.
 * Press down slowly for about 25 seconds.
 
+### Note
+
+* If you find the brew too strong, reduce the coffee to 16 grams.
+
 ## Single glass - Dark roasted iced coffee - Inverted method 
 
 ### Intro 
