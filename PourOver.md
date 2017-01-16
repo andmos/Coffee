@@ -16,7 +16,7 @@ Make sure the coffee maker is nice and clean.
 * Add the coffee to the filter
 * Pour 50 grams of hot water evenly over the grounds.
 * Allow the coffee to bloom for about 30 seconds.
-* Pour the rest of the water (430 grams or 430 ml) evenly over the grounds in a slow and spiral fashion.
+* Pour the rest of the water (430 grams or 430 ml, reset the weight if you use one) evenly over the grounds in a slow and spiral fashion.
 * Allow the coffee to drip through the filter and in to the coffee maker (should take 2 -3 minutes).
 * Remove the filter when the filter has stopped dripping.
-* Allow the coffee to cool for 4-5 minutes before serving. 
+* Allow the coffee to cool for 4-5 minutes before serving.
