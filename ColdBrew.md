@@ -21,5 +21,5 @@ Cold brew coffee is a great replacement for instant-coffee. A batch of cold brew
 * Use a drip filter holder (like the Hario V60 dripper or the filter holder from a Moccamaster) and prepare a new paper filter (remember to moisten the filter)
 * Put the dripper over a glass jar and pour the coffee over the filter.
 * Put the jar in the fridge - the batch is done.
-* For iced coffee, fill a glass with ice cubes and pour coffee over it.
+* For iced coffee, fill a glass with ice cubes and pour coffee over it. If the brew is too strong, delude with some cold water.
 * For a hot cup of coffee, put the cold brew in the cup and add hot water at a 1/3 ratio.
