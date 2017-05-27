@@ -13,3 +13,4 @@ To adjust the grinder, turn the wheel on the bottom of the upper part. The wheel
 | Method | Clicks |
 | ---   | ---     |
 | Aeropress (inverted) | 7 - 10 |
+| Frenshpress | 15 - 16 | 
