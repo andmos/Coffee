@@ -1,8 +1,11 @@
 French Press
 ===
 ![](https://cdn.rawgit.com/andmos/Coffee/master/img/FrenchPress.svg) 
-###Intro
+
+### Intro
+
 Always pre-heat the french press. Make sure to use clean water and equipment.
+
 ### Big press
 
 * 8 cups / 8 dl water
