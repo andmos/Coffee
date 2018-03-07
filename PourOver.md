@@ -1,14 +1,15 @@
 Pour Over
 ===
 ![](https://cdn.rawgit.com/andmos/Coffee/master/img/Chemex.svg)
+
+## Chemex / Bodum Pour Over
+
+* Ca. 480 gr/ 480 ml water
+* Ca. 32 gr freshly grinded filter ground coffee
+
 ### Intro
 Always use clean water. Remember to moisten the filter. This method works best with something like the classic Chemex or the Bodum Pour Over Coffee Maker, or the Hario V60 for a single cup of coffee.
 Make sure the coffee maker is nice and clean.
-
-### Chemex / Bodum Pour Over
-
-* Ca. 480 gr/ 480 ml water
-* Ca. 32 gr freshly filter ground coffee
 
 ### Instructions
 
@@ -20,3 +21,21 @@ Make sure the coffee maker is nice and clean.
 * Allow the coffee to drip through the filter and in to the coffee maker (should take 2 -3 minutes).
 * Remove the filter when the filter has stopped dripping.
 * Allow the coffee to cool for 4-5 minutes before serving.
+
+## Chemex / Bodum Pour Over - Iced coffee
+
+* Ca. 466 gr/ 466 ml water
+* Ca. 50 gr freshly grinded filter groud coffee
+* Ca. 234 gr ice
+
+### Intro
+The Chemex is great for making a batch of iced coffee. Remember to moisten the filter and clean the coffee maker.
+
+### Instructions 
+
+* Add the ice to the coffee maker.
+* Wet a paper filter and put in the coffee maker.
+* Add the coffee to the filter.
+* Pour the hot water (all 466gr/466 ml, there is no need for bloom here) evenly over the grounds in a slow and spiral fashion. Allow 10 to 15 seconds go when the water covers all the coffee before doing another spiral pour.
+* Remove the filter when it's done dripping.
+* Add some ice cubes to a class and pour.
