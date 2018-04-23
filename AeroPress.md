@@ -41,12 +41,37 @@ Always use clean water. Remember to moisten the filter.
 
 * If you find the brew too strong, reduce the coffee to 16 grams.
 
-## Single glass - Dark roasted iced coffee - Inverted method 
+## Single cup - Espresso-like brew
 
-### Intro 
+### Intro
+The Aeropress can never make _true espresso_, since that requires a pressure of 9 bar. But it can come pretty close.
+This method is used to create a concentrate that can be used for other coffee drinks, or as is.
+
+Always use clean water. Remember to moisten the filters.
+
+* Ca. 108 - 110 gr water
+* 21 gr freshly ground coffee, fine espresso grade
+
+### Instructions
+
+* Moister the filter and put it in the holder. Attach the holder to the Aeropress and put it on top of the cup.
+* Add the coffee.
+* Moister a second filter and put in on top of the grounds inside the chamber.
+* Use something like a cylindrical spice container to press the second filter down, compressing the grounds.
+* Twist and pull up the compression device, leaving the second filter in place.
+* Pour water over the second filter.
+* Use the Aeropress plunger to press the water through the grounds.
+
+### Note
+
+* If the plunger is impossible to press down, the coffee grind might be too fine.
+
+## Single glass - Dark roasted iced coffee - Inverted method
+
+### Intro
 Always use clean water. Remember to moisten the filter. This method chills the coffee instantly.
 
-* Ca. 150 gr water 
+* Ca. 150 gr water
 * 30 gr freshly ground coffee, a bit finer than filter / drip ground
 * 8 - 10 small/medium ice cubes
 
@@ -61,5 +86,4 @@ Always use clean water. Remember to moisten the filter. This method chills the c
 * Pour water over the coffee and set a timer for 1 minute.
 * When the timer is done, flip the Aeropress over on top of a cup.
 * Press down slowly for about 25 seconds.
-* Pour the coffee and the now semi-melted ice over the tall glass. 
-
+* Pour the coffee and the now semi-melted ice over the tall glass.
