@@ -45,7 +45,7 @@ Always use clean water. Remember to moisten the filter.
 
 ### Intro
 The Aeropress can never make _true espresso_, since that requires a pressure of 9 bar. But it can come pretty close.
-This method is used to create a concentrate that can be used for other coffee drinks, or as is.
+This method is used to create a concentrate that can be used for other coffee drinks, or as is. Espresso beans tastes best.
 
 Always use clean water. Remember to moisten the filters.
 
