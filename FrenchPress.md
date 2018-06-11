@@ -22,6 +22,6 @@ Always pre-heat the french press. Make sure to use clean water and equipment.
 * 21 gr/ 3 scoops freshly ground coffee
 
 ### Instructions
-* Fill half pressure pot with freshly boiled water. Rotate lightly the jug so that all the coffee is wetted . Fill with specified flow .
+* Fill half pressure pot with freshly boiled water. Rotate lightly the jug so that all the coffee is wetted. Fill with specified amount of water.
 * Put on the filter lid so that the spout is closed.
 * Wait four minutes before pushing the plunger down slowly. Turn the filter cap around so the spout is open.
