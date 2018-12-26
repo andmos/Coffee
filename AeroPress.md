@@ -44,6 +44,24 @@ Always use clean water. Remember to moisten the filter.
 * If you find the brew too strong, reduce the coffee to 16 grams.
 
 
+## Single cup - Inverted method with bloom
+
+### Intro
+Always use clean water. Remember to moisten the filter.
+
+* Ca. 200 gr water
+* 17 gr/ 1.5 scoops (the Aeropress scoope) freshly ground coffee, a bit finer than filter ground
+
+### Instructions
+
+* Moister the filter and put it in the holder.
+* Set up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).
+* Attach the other part of the Aeropress on top of the rubber plunger.
+* Add the coffee to the reversed press.
+* Pour 50 grams of water over the coffee and let it bloom for 30 seconds.
+* When 30 seconds have passed, add the rest of the water (150 grams) and set a timer for 1 minute.
+* When the timer is done, flip the Aeropress over on top of a cup.
+* Press down slowly for about 25 seconds.
 
 ## Single cup - Espresso-like brew
 
