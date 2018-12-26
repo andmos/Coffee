@@ -19,8 +19,6 @@ Always use clean water. Remember to moisten the filter. This method works nice w
 * Fill the rest of the water up to the 4 mark. Let the coffee bloom until the timer hits 45 - 47 seconds.
 * Press down slowly, try to hit the 1 minute and 25 seconds mark.
 
-
-
 ## Single cup - Inverted method
 
 ### Intro
@@ -42,7 +40,6 @@ Always use clean water. Remember to moisten the filter.
 ### Note
 
 * If you find the brew too strong, reduce the coffee to 16 grams.
-
 
 ## Single cup - Inverted method with bloom
 
@@ -87,8 +84,6 @@ Always use clean water. Remember to moisten the filters.
 ### Note
 
 * If the plunger is impossible to press down, the coffee grind might be too fine.
-
-
 
 ## Single glass - Dark roasted iced coffee - Inverted method
 
