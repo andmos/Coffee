@@ -55,7 +55,7 @@ Always use clean water. Remember to moisten the filter.
 * Set up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).
 * Attach the other part of the Aeropress on top of the rubber plunger.
 * Add the coffee to the reversed press.
-* Pour 50 grams of water over the coffee and let it bloom for 30 seconds.
+* Pour 50 grams of water over the coffee. Stir 10 times and let it bloom for 30 seconds.
 * When 30 seconds have passed, add the rest of the water (150 grams) and set a timer for 1 minute.
 * When the timer is done, flip the Aeropress over on top of a cup.
 * Press down slowly for about 25 seconds.
