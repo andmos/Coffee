@@ -1,10 +1,11 @@
-Aeropress
-===
+# Aeropress
+
 ![](https://cdn.rawgit.com/andmos/Coffee/master/img/AeroPress.svg)
 
 ## Single cup - Strong dark roasted coffee
 
 ### Intro
+
 Always use clean water. Remember to moisten the filter. This method works nice with dark roasted coffee.
 
 * Ca. 2.2 dl water
@@ -22,6 +23,7 @@ Always use clean water. Remember to moisten the filter. This method works nice w
 ## Single cup - Inverted method
 
 ### Intro
+
 Always use clean water. Remember to moisten the filter.
 
 * Ca. 260 gr water
@@ -44,6 +46,7 @@ Always use clean water. Remember to moisten the filter.
 ## Single cup - Inverted method with bloom
 
 ### Intro
+
 Always use clean water. Remember to moisten the filter.
 
 * Ca. 200 gr water
@@ -63,6 +66,7 @@ Always use clean water. Remember to moisten the filter.
 ## Single cup - Espresso-like brew
 
 ### Intro
+
 The Aeropress can never make _true espresso_, since that requires a pressure of 9 bar. But it can come pretty close.
 This method is used to create a concentrate that can be used for other coffee drinks, or as is. Espresso beans tastes best.
 
@@ -88,13 +92,14 @@ Always use clean water. Remember to moisten the filters.
 ## Single glass - Dark roasted iced coffee - Inverted method
 
 ### Intro
+
 Always use clean water. Remember to moisten the filter. This method chills the coffee instantly.
 
 * Ca. 150 gr water
 * 30 gr freshly ground coffee, a bit finer than filter / drip ground
 * 8 - 10 small/medium ice cubes
 
-### Introductions
+### Instructions
 
 * Moister the filter and put it in the holder.
 * Fill a cup with 4 - 5 ice cubes.
