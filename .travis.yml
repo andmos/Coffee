@@ -1,0 +1,7 @@
+sudo: required
+language: generic
+
+services:
+  - docker
+script:
+  - docker run --rm -v $(pwd):/usr/src/app/files -it andmos/markdownlint *.md

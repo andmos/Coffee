@@ -1,10 +1,11 @@
-Cold Brew
-===
-![](https://cdn.rawgit.com/andmos/Coffee/master/img/Chemex.svg)
+# Cold Brew
+
+![Chemex](https://cdn.rawgit.com/andmos/Coffee/master/img/Chemex.svg)
 
 ## Chemex / pour over coffee maker
 
 ### Intro
+
 Cold brew coffee is a great replacement for instant-coffee. A batch of cold brew can stay in the fridge for as much as a week. Use filtered water and clean equipment. A Chemex or a kitchen jug  works great for a cold brew.
 
 ### 1 Liter batch
@@ -27,11 +28,12 @@ Cold brew coffee is a great replacement for instant-coffee. A batch of cold brew
 * For iced coffee, fill a glass with ice cubes and pour coffee over it. If the brew is too strong, dilute with some cold water.
 * For a hot cup of coffee, put the cold brew in the cup and add hot water at a 1/3 ratio.
 
-![](https://cdn.rawgit.com/andmos/Coffee/master/img/FrenchPress.svg)
+![French Press](https://cdn.rawgit.com/andmos/Coffee/master/img/FrenchPress.svg)
 
 ## French Press (big)
 
 ### Intro
+
 Cold brew coffee can be brewed in a big french press for a faster and stronger brew.
 
 ### 8 dl batch

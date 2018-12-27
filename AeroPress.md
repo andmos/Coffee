@@ -1,6 +1,6 @@
 # Aeropress
 
-![](https://cdn.rawgit.com/andmos/Coffee/master/img/AeroPress.svg)
+![AeroPress](https://cdn.rawgit.com/andmos/Coffee/master/img/AeroPress.svg)
 
 ## Single cup - Strong dark roasted coffee
 
