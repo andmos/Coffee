@@ -11,6 +11,7 @@
 
 Always use clean water. Remember to moisten the filter. This method works best with something like the classic Chemex or the Bodum Pour Over Coffee Maker, or the Hario V60 for a single cup of coffee.
 Make sure the coffee maker is nice and clean.
+If the grounds are too fine, the coffee might get a more burnt taste. [See this thread](https://www.reddit.com/r/Coffee/comments/abjaau/chemex_grinds_now_looking_muddy_whats_going_wrong/) for additional hints.
 
 ### Instructions
 

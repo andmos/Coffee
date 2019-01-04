@@ -16,4 +16,5 @@ To adjust the grinder, turn the wheel on the bottom of the upper part. The wheel
 | Method | Clicks |
 | ---   | ---     |
 | Aeropress (inverted) | 7 - 10 |
+| Chemex / pour-over | 9 - 12 |
 | French Press | 15 - 16 |
