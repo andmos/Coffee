@@ -5,7 +5,7 @@
 ## Chemex / Bodum Pour Over
 
 * Ca. 480 gr/ 480 ml water
-* Ca. 32 gr freshly grinded filter ground coffee
+* Ca. 32 gr freshly grinded medium/filter ground coffee
 
 ### Intro
 
@@ -24,10 +24,30 @@ If the grounds are too fine, the coffee might get a more burnt taste. [See this 
 * Remove the filter when the filter has stopped dripping.
 * Allow the coffee to cool for 4-5 minutes before serving.
 
+## Chemex / Bodum Pour Over - Center pour method
+
+* Ca. 700 gr/ 700 ml water
+* Ca. 52 gr freshly grinded medium/filter ground coffee
+
+### Intro
+
+Always use clean water. Remember to moisten the filter. This method works best with something like the classic Chemex or the Bodum Pour Over Coffee Maker.
+Make sure the coffee maker is nice and clean.
+
+### Instructions
+
+* Wet a paper filter and put in in the coffee maker.
+* Add the coffee to the filter
+* Pour 100 grams of hot water evenly over the grounds.
+* Allow the coffee to bloom for about 1 minute and 30 seconds.
+* Pour some of the remaining 600 grams of water over the grounds, up to the upper level in a circular fashion.
+* When all the grounds are wet, move the kettle to the center and pour the rest of the water consistently.
+* Allow the coffee to drip through the filter and remove it after 4.5 minutes.
+
 ## Chemex / Bodum Pour Over - Iced coffee
 
 * Ca. 466 gr/ 466 ml water
-* Ca. 50 gr freshly grinded filter groud coffee
+* Ca. 50 gr freshly grinded filter ground coffee
 * Ca. 234 gr ice
 
 ### Intro

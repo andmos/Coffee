@@ -10,17 +10,17 @@ Always pre-heat the french press. Make sure to use clean water and equipment.
 
 ### Big press
 
-* 8 cups / 8 dl water
+* 800 ml / 800 gr water
 * 56 gr/ 8 scoops freshly ground coffee
 
 ### Medium press
 
-* 6 cups / 6 dl water
+* 600 ml / 600 gr water
 * 42 gr/ 6 scoops freshly ground coffee
 
 ### Small Bodum french press
 
-* 3 cups / 3 dl water
+* 300 ml / 300 gr water
 * 21 gr/ 3 scoops freshly ground coffee
 
 ### Instructions
