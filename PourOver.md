@@ -24,7 +24,7 @@ If the grounds are too fine, the coffee might get a more burnt taste. [See this 
 * Remove the filter when the filter has stopped dripping.
 * Allow the coffee to cool for 4-5 minutes before serving.
 
-## Chemex / Bodum Pour Over - Center pour method
+## Chemex - Center pour method
 
 * Ca. 700 gr/ 700 ml water
 * Ca. 52 gr freshly grinded medium/filter ground coffee
