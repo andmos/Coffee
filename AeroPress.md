@@ -63,7 +63,30 @@ Always use clean water. Remember to moisten the filter.
 * When the timer is done, flip the Aeropress over on top of a cup.
 * Press down slowly for about 25 seconds.
 
-## Single cup - Espresso-like brew
+## Single cup - Espresso-like brew, regular style
+
+### Intro
+
+The Aeropress can never make _true espresso_, since that requires a pressure of 9 bar. But it can come pretty close.
+This method is used to create a concentrate that can be used for other coffee drinks, or as is. Works well with most types of coffee.
+
+Always use clean water. Remember to moisten the filters.
+
+* 100 gr water
+* 32 gr freshly ground coffee, somewhere between filter and espresso.
+
+### Instructions
+
+* Moister the filter and put it in the holder. Attach the holder to the Aeropress and put it on top of the cup.
+* Add the coffee.
+* Pour the water over the coffee and stir for 10 full seconds.
+* Use the Aeropress plunger to press the water through the grounds for 20 seconds.
+
+### Note
+
+* For the best result, the brew process should take no more than 30 seconds.
+
+## Single cup - Espresso-like brew, double filters
 
 ### Intro
 
