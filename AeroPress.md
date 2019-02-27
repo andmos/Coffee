@@ -53,7 +53,7 @@ Always use clean water. Remember to moisten the filter.
 * 17 gr/ 1.5 scoops (the Aeropress scoope) freshly ground coffee, a bit finer than filter ground
 
 ### Instructions
- 
+
 * Moister the filter and put it in the holder.
 * Set up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).
 * Attach the other part of the Aeropress on top of the rubber plunger.
@@ -75,7 +75,7 @@ Always use clean water. Remember to moisten the filter.
 * 16 gr freshly ground coffee, a bit courser than filter ground.
 
 ### Instructions
- 
+
 * Moister the filter and put it in the holder.
 * Set up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).
 * Attach the other part of the Aeropress on top of the rubber plunger.
