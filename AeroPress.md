@@ -24,7 +24,7 @@ Always use clean water. Remember to moisten the filter. This method works nice w
 
 ### Intro
 
-Always use clean water. Remember to moisten the filter.
+Always use clean water. Remember to moisten the filter. Pre-heat the cup.
 
 * Ca. 260 gr water
 * 18 gr/ 1.6 scoops (the Aeropress scoope) freshly ground coffee, a bit finer than filter ground
@@ -47,10 +47,13 @@ Always use clean water. Remember to moisten the filter.
 
 ### Intro
 
-Always use clean water. Remember to moisten the filter.
+"This produces a medium bodied coffee that allows for the flavors to slowly reveal themselves as the coffee cools."
+Fits well with floral coffees, like Ethiopians.
+
+Always use clean water. Remember to moisten the filter. Pre-heat the cup.
 
 * Ca. 200 gr water
-* 17 gr/ 1.5 scoops (the Aeropress scoope) freshly ground coffee, a bit finer than filter ground
+* 18 gr freshly ground coffee, a bit finer than filter ground
 
 ### Instructions
 
@@ -58,10 +61,10 @@ Always use clean water. Remember to moisten the filter.
 * Set up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).
 * Attach the other part of the Aeropress on top of the rubber plunger.
 * Add the coffee to the reversed press.
-* Pour 50 grams of water over the coffee. Stir 10 times and let it bloom for 30 seconds.
-* When 30 seconds have passed, add the rest of the water (150 grams) and set a timer for 1 minute.
-* When the timer is done, flip the Aeropress over on top of a cup.
-* Press down slowly for about 25 seconds.
+* Pour 100 grams of water over the coffee. Let it bloom for 30 seconds.
+* When 30 seconds have passed, stir lightly 2-3 times and add the rest of the water (100 grams).
+* At the 2 minute mark, flip the Aeropress over on top of a cup.
+* Press down slowly for about 20 to 30 seconds.
 
 ## Single cup - Inverted method for lighter roasts
 
@@ -69,10 +72,10 @@ Always use clean water. Remember to moisten the filter.
 
 "Lighter roasts where there's more structural integrity in the bean, thus helping prevent over-extraction during the highly agitative 'flip' if you will."
 
-Always use clean water. Remember to moisten the filter.
+Always use clean water. Remember to moisten the filter. Pre-heat the cup.
 
 * Ca. 220 gr water
-* 16 gr freshly ground coffee, a bit courser than filter ground.
+* 16 gr freshly ground coffee, a bit finer than filter ground.
 
 ### Instructions
 
@@ -91,7 +94,7 @@ Always use clean water. Remember to moisten the filter.
 The Aeropress can never make _true espresso_, since that requires a pressure of 9 bar. But it can come pretty close.
 This method is used to create a concentrate that can be used for other coffee drinks, or as is. Works well with most types of coffee.
 
-Always use clean water. Remember to moisten the filters.
+Always use clean water. Remember to moisten the filters. Pre-heat the cup.
 
 * 100 gr water
 * 32 gr freshly ground coffee, somewhere between filter and espresso.
@@ -114,7 +117,7 @@ Always use clean water. Remember to moisten the filters.
 The Aeropress can never make _true espresso_, since that requires a pressure of 9 bar. But it can come pretty close.
 This method is used to create a concentrate that can be used for other coffee drinks, or as is. Espresso beans tastes best.
 
-Always use clean water. Remember to moisten the filters.
+Always use clean water. Remember to moisten the filters. Pre-heat the cup.
 
 * Ca. 108 - 110 gr water
 * 21 gr freshly ground coffee, fine espresso grade
