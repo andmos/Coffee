@@ -96,7 +96,7 @@ This method is used to create a concentrate that can be used for other coffee dr
 
 Always use clean water. Remember to moisten the filters. Pre-heat the cup.
 
-* 100 gr water
+* 110 gr water
 * 32 gr freshly ground coffee, somewhere between filter and espresso.
 
 ### Instructions
