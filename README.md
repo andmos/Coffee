@@ -5,7 +5,7 @@
 ![AeroPress](https://cdn.rawgit.com/andmos/Coffee/master/img/AeroPress.svg)
 ![Chemex](https://cdn.rawgit.com/andmos/Coffee/master/img/Chemex.svg)
 
-A collection of my favorite coffee recipes and brews, as well as other useful information.
+A collection of my favorite coffee recipes and brews, as well as other useful coffee-related information.
 
 All icons by [Eric M. Ellis](http://thenounproject.com/ericellis/).
 
