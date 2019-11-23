@@ -87,6 +87,28 @@ Always use clean water. Remember to moisten the filter. Pre-heat the cup.
 * When the timer is done, flip the Aeropress over on top of a cup.
 * Press down slowly for about 25 seconds.
 
+## Single cup - Tim Wendelboe's regular method
+
+### Intro
+
+Regular method by Aeropress champion Tim Wendelboe. [Youtube walkthrough](https://www.youtube.com/watch?v=7JISZNixkeA).
+Works best with lighter roasts. The variable here is the grind. If the drink turns out too weak, grind more fine, or courser if bitter.
+
+Always use clean water. Remember to moisten the filter. Pre-heat the cup.
+
+* 200 gr water
+* 14 gr freshly ground coffee, around medium filter. Taste and tune the grind to the liking.
+
+### Instructions
+
+* Moister the filter and put it in the holder. Attach the holder to the Aeropress and put it on top of the cup.
+* Add the coffee.
+* Pour the water over the coffee and stir 3 times.
+* Put on the Aeropress plunger and pull it slightly upwards to stop the water from going through the coffee.
+* Set a timer for 1 minute and let the coffee sit.
+* When time is up, remove the plunger and stir 3 times.
+* Use the plunger to press all the water through. This should take around 30 seconds.
+
 ## Single cup - Espresso-like brew, regular style
 
 ### Intro
@@ -98,6 +120,10 @@ Always use clean water. Remember to moisten the filters. Pre-heat the cup.
 
 * 110 gr water
 * 32 gr freshly ground coffee, somewhere between filter and espresso.
+
+### Note
+
+* It's fine to press the plunger all the way, there is no real danger of overextraction here.
 
 ### Instructions
 
