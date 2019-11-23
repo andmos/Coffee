@@ -9,7 +9,7 @@
 Always use clean water. Remember to moisten the filter. This method works nice with dark roasted coffee.
 
 * Ca. 220 gr water
-* 26 gr/ 2 scoops (the Aeropress scoope) freshly ground coffee, a bit finer than French Press
+* 26 gr/ 2 scoops (the Aeropress scoop) freshly ground coffee, a bit finer than French Press
 
 ### Instructions
 
@@ -27,7 +27,7 @@ Always use clean water. Remember to moisten the filter. This method works nice w
 Always use clean water. Remember to moisten the filter. Pre-heat the cup.
 
 * Ca. 260 gr water
-* 18 gr/ 1.6 scoops (the Aeropress scoope) freshly ground coffee, a bit finer than filter ground
+* 18 gr/ 1.6 scoops (the Aeropress scoop) freshly ground coffee, a bit finer than filter ground
 
 ### Instructions
 
@@ -91,7 +91,7 @@ Always use clean water. Remember to moisten the filter. Pre-heat the cup.
 
 ### Intro
 
-Regular method by Aeropress champion Tim Wendelboe. [Youtube walkthrough](https://www.youtube.com/watch?v=7JISZNixkeA).
+Regular method by Aeropress champion Tim Wendelboe. [YouTube walkthrough](https://www.youtube.com/watch?v=7JISZNixkeA).
 Works best with lighter roasts. The variable here is the grind. If the drink turns out too weak, grind more fine, or courser if bitter.
 
 Always use clean water. Remember to moisten the filter. Pre-heat the cup.
@@ -109,6 +109,10 @@ Always use clean water. Remember to moisten the filter. Pre-heat the cup.
 * When time is up, remove the plunger and stir 3 times.
 * Use the plunger to press all the water through. This should take around 30 seconds.
 
+### Note
+
+* It's fine to press the plunger all the way, there is no real danger of overextraction here.
+
 ## Single cup - Espresso-like brew, regular style
 
 ### Intro
@@ -120,10 +124,6 @@ Always use clean water. Remember to moisten the filters. Pre-heat the cup.
 
 * 110 gr water
 * 32 gr freshly ground coffee, somewhere between filter and espresso.
-
-### Note
-
-* It's fine to press the plunger all the way, there is no real danger of overextraction here.
 
 ### Instructions
 
