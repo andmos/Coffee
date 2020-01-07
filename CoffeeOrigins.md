@@ -2,7 +2,7 @@
 
 ## Intro
 
-Coffee originates from many countries with it's own distinguishing taste. This is a translation of Norwegian coffee importer [Solberg & Hansen's](https://sh.no/map/) guide to what characterizes each area's unique taste.
+Coffee originates from many countries with its own distinguishing taste. This is a translation of Norwegian coffee importer [Solberg & Hansen's](https://sh.no/map/) guide to what characterizes each area's unique taste.
 
 ## South America
 
@@ -12,7 +12,7 @@ Coffee originates from many countries with it's own distinguishing taste. This i
 * Chocolate
 * Dried fruit
 
-Brazil is the country that produces the most coffee in the world. The variation in landscape and climate in the large country gives a huge production potential. Brazil is a high-tech coffee country where coffee is grown on everything from large farms and heavy plantations to smaller family-run farms. Part of the operation is mechanized and some farmers harvest the coffee berries mechanically. On smaller farms they harvest the berries by hand. It is common for coffee to be wholly or partly dried, but you will also find wet-processed coffee.
+Brazil is the country that produces the most coffee in the world. The variation in landscape and climate in the large country gives a huge production potential. Brazil is a high-tech coffee country where coffee is grown on everything from large farms and heavy plantations to smaller family-run farms. Part of the operation is mechanized and some farmers harvest the coffee berries mechanically. On smaller farms, they harvest the berries by hand. It is common for coffee to be wholly or partly dried, but you will also find wet-processed coffee.
 
 ### Colombia
 
@@ -39,7 +39,7 @@ In Peru, the landscape is created for coffee, with steep ridges, deep rainforest
 * Red berries
 * Citrus
 
-In Mount Kenya's slopes, the coffee trees grow in rich, red, volcanic soil, often without shade. English colonial masters took the initiative to grow coffee in Kenya, but the coffee culture first gained a foothold in the country in the late 1900s. The coffee is grown by small farmers who deliver the coffee berries to a common washing station in the surrounding area, where the beans are wet-processed. Several hundred coffee farmers may be associated with a washing station. The prayers are hand-sorted by size. Two types of prayer in particular have helped to give Kenyan coffee its good reputation: SL 28 and SL 34. Batian, a new leaf rust resistant bean type, is also used. It also becomes Ruiru, which is resistant to CBD.
+In Mount Kenya's slopes, the coffee trees grow in rich, red, volcanic soil, often without shade. English colonial masters took the initiative to grow coffee in Kenya, but the coffee culture first gained a foothold in the country in the late 1900s. The coffee is grown by small farmers who deliver the coffee berries to a common washing station in the surrounding area, where the beans are wet-processed. Several hundred coffee farmers may be associated with a washing station. The prayers are hand-sorted by size. Two types of prayer, in particular, have helped to give Kenyan coffee its good reputation: SL 28 and SL 34. Batian, a new leaf rust-resistant bean type, is also used. It also becomes Ruiru, which is resistant to CBD.
 
 ### Ethiopia
 
@@ -47,7 +47,7 @@ In Mount Kenya's slopes, the coffee trees grow in rich, red, volcanic soil, ofte
 * Bergamot
 * Floral tones
 
-Ethiopia is said to be the origin of coffee. Coffee and accompanying coffee ceremonies are an important part of the country's culture. Here the descendants of the first arabica plants grow with traces back to the 17th century and the diversity of species is enormous. The Rift Valley provides fruitful mountain landscapes with mineral soils, cool temperatures and plenty of rain. Most of Ethiopian coffee is grown by small farmers in smaller pieces of land. Different species of the coffee plant grow wild, side by side, with varieties of heirloom as dominant bean types. The coffee farmers are faithful to their ancient farming traditions and cultivate natural principles. It processes both processed and dry-dried coffee.
+Ethiopia is said to be the origin of coffee. Coffee and accompanying coffee ceremonies are an important part of the country's culture. Here the descendants of the first arabica plants grow with traces back to the 17th century and the diversity of species is enormous. The Rift Valley provides fruitful mountain landscapes with mineral soils, cool temperatures and plenty of rain. Most of the Ethiopian coffee is grown by small farmers in smaller pieces of land. Different species of the coffee plant grow wild, side by side, with varieties of heirloom as dominant bean types. The coffee farmers are faithful to their ancient farming traditions and cultivate natural principles. It processes both processed and dry-dried coffee.
 
 ### Burundi
 
@@ -63,7 +63,7 @@ In the heart of Africa, unexplored areas of great potential have made Burundi an
 * Red berries
 * Orange
 
-In rich volcanic soil, the coffee trees were planted in Rwanda in the early 1900s. Today, coffee is an important export product that has contributed in particular to economic growth and optimism in the aftermath of the gruesome genocide in 1994. Coffee production creates new jobs and there are several female coffee farmers who run their own farms. New washing stations provide farmers with better access to resources and knowledge, and focus is focused on producing and refining high quality coffee. Rwanda's endless green and rounded mountain peaks provide a good breeding ground for this particular, where you will find old coffee beans with the bourbon type in the lush vegetation.
+In rich volcanic soil, the coffee trees were planted in Rwanda in the early 1900s. Today, coffee is an important export product that has contributed in particular to economic growth and optimism in the aftermath of the gruesome genocide in 1994. Coffee production creates new jobs and there are several female coffee farmers who run their own farms. New washing stations provide farmers with better access to resources and knowledge, and focus is focused on producing and refining high-quality coffee. Rwanda's endless green and rounded mountain peaks provide a good breeding ground for this particular, where you will find old coffee beans with the bourbon type in the lush vegetation.
 
 ## Asia and Oceania
 
@@ -91,7 +91,7 @@ India has a long and proud coffee tradition with roots dating back to the 17th c
 * Tobacco
 * Sweet, dark fruit
 
-Papua New-Guinea is one of the world's least urbanized countries. It has magnificent scenery with jagged mountain peaks, active volcanoes, paradise-like sandy beaches and dense rain forest. There are more than a thousand different tribal cultures, many of them almost cut off from the modern world. Coffee is grown in the mountains on small farms or plantations and almost all the coffee is processed. Old coffee trees grow well in rich volcanic soil and coffee production is an important nutrient base for many local communities.
+Papua New-Guinea is one of the world's least urbanized countries. It has magnificent scenery with jagged mountain peaks, active volcanoes, paradise-like sandy beaches and dense rain forests. There are more than a thousand different tribal cultures, many of them almost cut off from the modern world. Coffee is grown in the mountains on small farms or plantations and almost all the coffee is processed. Old coffee trees grow well in rich volcanic soil and coffee production is an important nutrient base for many local communities.
 
 ## Central America
 
@@ -109,7 +109,7 @@ In Guatemala, some of the world's finest and most distinctive coffee varieties a
 * Plum
 * Caramel
 
-Warm climate, nutritious soil, large shade trees and rich plant life give Nicaragua a long history of producing delicious coffee. Coffee is one of the main export goods in the country and provides many jobs. The coffee is often grown under trees among bustling flower life on small farms. It focuses on cultivating high quality coffee while taking care of nature. The coffee is usually grown according to natural principles and processed both by wet processing and berry drying.
+Warm climate, nutritious soil, large shade trees and rich plant life give Nicaragua a long history of producing delicious coffee. Coffee is one of the main export goods in the country and provides many jobs. The coffee is often grown under trees among bustling flower life on small farms. It focuses on cultivating high-quality coffee while taking care of nature. The coffee is usually grown according to natural principles and processed both by wet processing and berry drying.
 
 ### Honduras
 
@@ -134,4 +134,4 @@ In El Salvador, the coffee trees grow in hillsides that creep up from the sea. T
 * Berries
 * Floral tones
 
-Costa Rica is a technical coffee country with a great focus on the farmer's knowledge. They protect their Arabica varieties and have banned the cultivation of robust. The coffee farms are often small, family run and well run, where the knowledge has been passed down through generations. They often own their own micro mills so that the farmers have the opportunity to work with their prayers from start to finish. Honey-processed coffee originates in Costa Rica. It is a partially dry coffee where the peel of the mature coffee berry is removed, while much of the pulp is left around the bean while it is drying. It gives moisture and sweetness to the taste.
+Costa Rica is a technical coffee country with a great focus on the farmer's knowledge. They protect their Arabica varieties and have banned the cultivation of robust. The coffee farms are often small, family-run and well run, where the knowledge has been passed down through generations. They often own their own micro mills so that the farmers have the opportunity to work with their prayers from start to finish. Honey-processed coffee originates in Costa Rica. It is a partially dry coffee where the peel of the mature coffee berry is removed, while much of the pulp is left around the bean while it is drying. It gives moisture and sweetness to the taste.
