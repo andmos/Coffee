@@ -2,14 +2,14 @@
 
 ![Chemex](https://cdn.rawgit.com/andmos/Coffee/master/img/Chemex.svg)
 
-## Chemex / Bodum Pour Over
+## Bodum Pour Over
 
 * Ca. 480 gr/ 480 ml water
-* Ca. 32 gr freshly grinded medium/filter ground coffee
+* Ca. 32 gr freshly grinded medium to fine ground coffee
 
 ### Intro
 
-Always use clean water. Remember to moisten the filter. This method works best with something like the classic Chemex or the Bodum Pour Over Coffee Maker, or the Hario V60 for a single cup of coffee.
+Always use clean water. Remember to moisten the filter. This method works best with something like the classic Chemex or the Bodum Pour Over Coffee Maker, which is described here.
 Make sure the coffee maker is nice and clean.
 If the grounds are too fine, the coffee might get a more burnt taste. [See this thread](https://www.reddit.com/r/Coffee/comments/abjaau/chemex_grinds_now_looking_muddy_whats_going_wrong/) for additional hints.
 
@@ -17,12 +17,14 @@ If the grounds are too fine, the coffee might get a more burnt taste. [See this 
 
 * Wet a paper filter and put in in the coffee maker.
 * Add the coffee to the filter
-* Pour 50 grams of hot water evenly over the grounds.
-* Allow the coffee to bloom for about 30 seconds.
-* Pour the rest of the water (430 grams or 430 ml, reset the weight if you use one) evenly over the grounds in a slow and spiral fashion.
-* Allow the coffee to drip through the filter and in to the coffee maker (should take 2 -3 minutes).
+* Pour 60 grams of hot water evenly over the grounds.
+* Allow the coffee to bloom for about 35 seconds.
+* Pour water in a circular fashion up to 250 grams.
+* At 250 grams, give the coffeemaker a couple of swirls to keep the coffee bed flat. This helps with extraction.
+* Pour the rest of the water in a circular fashion, up to 280 grams total.
+* Give the coffeemaker a last couple of swirls.
+* Allow the coffee to drip through the filter and in to the coffee maker (should take around 3:00 - 3:30 minutes).
 * Remove the filter when the filter has stopped dripping.
-* Allow the coffee to cool for 4-5 minutes before serving.
 
 ## Chemex - Center pour method
 
