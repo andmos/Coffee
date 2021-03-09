@@ -113,6 +113,31 @@ Always use clean water. Remember to moisten the filter. Pre-heat the cup.
 
 * It's fine to press the plunger all the way, there is no real danger of overextraction here.
 
+## Single cup - Odd-Steinar Tøllefsen's inverted method
+
+### Intro
+
+Reversed method by World Champion Odd-Steinar Tøllefsen from Supreme Roastworks in Oslo, Norway. Example done with Ethiopian light roast coffee with a filter grind.
+
+* 200 gr water
+* 14 gr freshly ground coffee, filter.
+
+### Instructions
+
+* Moister the filter and put it in the holder.
+* Set up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).
+* Attach the other part of the Aeropress on top of the rubber plunger.
+* Add the coffee to the reversed press.
+* Pour 200 grams of water over the coffee.
+* Stir lightly 2-3 times back and forth.
+* Let the coffee sit for 3 minutes and 30 seconds.
+* Again, stir lightly 2-3 times back and forth.
+* Press down slowly for about 20 to 30 seconds, stop at hissing sound.
+
+### Note
+
+* When pressing the plunger down, the weight of the hands should be enough. If the pressing has a heavy feel, try a more course grind, or finer if pressing feels too light.
+
 ## Single cup - Espresso-like brew, regular style
 
 ### Intro
