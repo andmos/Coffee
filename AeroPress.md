@@ -70,7 +70,7 @@ Always use clean water. Remember to moisten the filter. Pre-heat the cup.
 
 ### Intro
 
-"Lighter roasts where there's more structural integrity in the bean, thus helping prevent over-extraction during the highly agitative 'flip' if you will."
+"Lighter roasts where there's more structural integrity in the bean, thus helping prevent over-extraction during the highly agitated 'flip' if you will."
 
 Always use clean water. Remember to moisten the filter. Pre-heat the cup.
 
