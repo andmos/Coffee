@@ -113,6 +113,33 @@ Always use clean water. Remember to moisten the filter. Pre-heat the cup.
 
 * It's fine to press the plunger all the way, there is no real danger of overextraction here.
 
+## Single cup - James Hoffmann's Ultimate Aeropress Technique
+
+### Intro
+
+From World Barista Champion and Youtube star James Hoffmann, his [Ultimate Aeropress Technique](https://www.youtube.com/watch?v=j6VlT_jUVPc).
+Recipe with high extraction for lighter roasts at a low coffee to water ratio.
+
+Always use clean water. Pre-heat the cup. There is no need to rinse the paper filter.
+
+* 200 gr water
+* 11 gr freshly ground coffee, on the finer end of filter or pour-over, nearly at espresso-level.
+
+* Ready the filter and put it in the holder. Attach the holder to the Aeropress and put it on top of the cup.
+* Add the coffee.
+* Pour the water over the coffee evenly, make sure to get all the coffee wet.
+* Put on the Aeropress plunger and pull it slightly upwards to stop the water from going through the coffee.
+* Set a timer for 2 minute and let the coffee sit.
+* When time is up, grab the upper and lower parts of the Aeropress and give it a gentle swirl.
+* Wait for another 30 seconds.
+* Use the plunger to press all the water through. Press gently and evenly. The press should take around 30 seconds.
+
+### Note
+
+* It's fine to press the plunger all the way, there is no real danger of overextraction here.
+* For darker roasts, don't grind as fine, something around filter / pour-over should work.
+* For lighter roasts, water temperature up to boiling is fine - but lower the temperature a bit for darker roasts.
+
 ## Single cup - Odd-Steinar Tøllefsen's inverted method
 
 ### Intro
