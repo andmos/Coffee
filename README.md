@@ -9,4 +9,4 @@ A collection of my favorite coffee recipes and brews, as well as other useful co
 
 All icons by [Eric M. Ellis](http://thenounproject.com/ericellis/).
 
-[![Build Status](https://travis-ci.org/andmos/Coffee.svg?branch=master)](https://travis-ci.org/andmos/Coffee)
+![Build Status](https://github.com/andmos/Coffee/actions/workflows/ci.yml/badge.svg)
