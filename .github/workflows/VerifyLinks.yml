@@ -1,4 +1,4 @@
-name: Verify Documents
+name: Verify Links
 on: 
   pull_request:
   workflow_dispatch:
