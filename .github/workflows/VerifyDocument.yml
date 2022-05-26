@@ -1,6 +1,5 @@
 name: Verify Documents
 on: 
-  push:
   pull_request:
   workflow_dispatch:
 jobs:
@@ -14,14 +13,3 @@ jobs:
       - name: Verify Markdown structure
         run: |
           docker run --rm -v $(pwd):/usr/src/app/files -t andmos/markdownlint *.md
-  
-  Awesome-bot:
-    name: Run Awesome-bot
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-
-      - name: Verify Links
-        run: |
-          docker run --rm -v $(pwd):/mnt -t andmos/awesome-bot -f *.csv --allow-redirect --allow 429
