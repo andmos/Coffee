@@ -1,20 +1,10 @@
-name: Verify Documents
+name: Verify Links
 on: 
-  push:
   pull_request:
   workflow_dispatch:
-jobs:
-  Markdownlint:
-    name: Run Markdownlint
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Verify Markdown structure
-        run: |
-          docker run --rm -v $(pwd):/usr/src/app/files -t andmos/markdownlint *.md
-  
+  schedule:
+    - cron:  '0 13 * * 1'
+jobs:  
   Awesome-bot:
     name: Run Awesome-bot
     runs-on: ubuntu-latest
