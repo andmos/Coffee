@@ -11,4 +11,3 @@ All icons by [Eric M. Ellis](http://thenounproject.com/ericellis/).
 
 ![Links status](https://github.com/andmos/Coffee/actions/workflows/VerifyLinks.yml/badge.svg)
 ![Document Structure](https://github.com/andmos/Coffee/actions/workflows/VerifyDocument.yml/badge.svg)
-
