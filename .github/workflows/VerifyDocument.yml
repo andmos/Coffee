@@ -12,4 +12,4 @@ jobs:
 
       - name: Verify Markdown structure
         run: |
-            docker run --rm -v $(pwd):/workdir ghcr.io/andmos/markdownlint-cli:master "*.md"
+          docker run --rm -v $(pwd):/workdir ghcr.io/andmos/markdownlint-cli:master "*.md"
