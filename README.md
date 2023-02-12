@@ -7,7 +7,7 @@
 
 A collection of my favorite coffee recipes and brews, as well as other useful coffee-related information.
 
-All icons by [Eric M. Ellis](http://thenounproject.com/ericellis/).
+Wilfa Svart icon by [alexagv](https://github.com/alexagv). All other icons by [Eric M. Ellis](http://thenounproject.com/ericellis/).
 
 ![Links status](https://github.com/andmos/Coffee/actions/workflows/VerifyLinks.yml/badge.svg)
 ![Document Structure](https://github.com/andmos/Coffee/actions/workflows/VerifyDocument.yml/badge.svg)
