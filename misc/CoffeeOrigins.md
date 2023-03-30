@@ -41,6 +41,8 @@ In Peru, the landscape is created for coffee, with steep ridges, deep rainforest
 
 In Mount Kenya's slopes, the coffee trees grow in rich, red, volcanic soil, often without shade. English colonial masters took the initiative to grow coffee in Kenya, but the coffee culture first gained a foothold in the country in the late 1900s. The coffee is grown by small farmers who deliver the coffee berries to a common washing station in the surrounding area, where the beans are wet-processed. Several hundred coffee farmers may be associated with a washing station. The prayers are hand-sorted by size. Two types of prayer, in particular, have helped to give Kenyan coffee its good reputation: SL 28 and SL 34. Batian, a new leaf rust-resistant bean type, is also used. It also becomes Ruiru, which is resistant to CBD.
 
+Kenyan coffee [has it's own grading system](https://espressocoffeeguide.com/gourmet-coffee/arabian-and-african-coffees/kenya-coffee/kenya-coffee-grading/) where 'Kenya AA' is considered one of the world's finest coffees.
+
 ### Ethiopia
 
 * Citrus
