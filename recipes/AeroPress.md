@@ -236,3 +236,26 @@ Always use clean water. Remember to moisten the filter. This method chills the c
 * When the timer is done, flip the Aeropress over on top of a cup.
 * Press down slowly for about 25 seconds.
 * Pour the coffee and the now semi-melted ice over the tall glass.
+
+## Single glass - Dark roasted iced coffee latte - Inverted method - BP's method
+
+### Intro
+
+Always use clean water. Remember to moisten the filter. This method chills the coffee instantly.
+
+* Ca. 90 gr water
+* 40 gr freshly ground coffee, as fine as possible
+* 2 large ice cubes (~100 gr)
+* 120 mL milk (2% fat content, known as Mellommelk in Norway)
+
+### Instructions
+
+* Moister the filter and put it in the holder.
+* Fill a tall glass with the ice cubes and milk
+* Set up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).
+* Attach the other part of the Aeropress on top of the rubber plunger.
+* Add the coffee to the reversed press.
+* Pour water over the coffee and stir for 40 seconds. Set a timer for 2 minutes and let it relax.
+* When the timer is done, flip the Aeropress over on top of a cup.
+* Press down slowly for about 25 seconds.
+* Pour the coffee and the now semi-melted ice over the tall glass together with the ice cubes and milk.
