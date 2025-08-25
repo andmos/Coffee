@@ -14,4 +14,4 @@ jobs:
 
       - name: Verify Links
         run: |
-          docker run --rm -v $(pwd):/mnt -t andmos/awesome-bot -f **/*.csv --allow-redirect --allow 429 --allow 404 --allow-ssl 
+          docker run --rm -v $(pwd):/mnt -t andmos/awesome-bot -f **/*.csv --allow-redirect --allow 429,403
