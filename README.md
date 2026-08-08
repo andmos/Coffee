@@ -18,6 +18,8 @@ Wilfa Svart icon by [alexagv](https://github.com/alexagv). All other icons by [E
 
 [Cold brew](recipes/ColdBrew.md) - Recipes for making cold brew coffee.
 
+[Clever Dripper](recipes/CleverDripper.md) - Recipes for the hybrid immersion and pour-over Clever Dripper.
+
 [French press](recipes/FrenchPress.md) - Recipes for the french press coffee maker.
 
 [Moccamaster](recipes/Moccamaster.md) - Recipes for the classic Moccamaster coffee machine.
